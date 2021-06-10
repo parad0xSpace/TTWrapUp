@@ -1,0 +1,10 @@
+When entering the main computer level there is a 80% chance his animations won't work right
+they are still there but he doesn't do them, but the fight still works.
+
+Upon starting the game, in the town Jenkins may start yelling at you to get off his lawn when you are not in it,
+entering and leaving his lawn once or twice should fix it.
+Careful he will run at you and reload the scene if touched.
+
+Sometimes in the boss fight level it wont let you shoot, just drop the crowbar and pick it up again.
+
+interacting doesn't always work properly this is because sometimes the game wants you to be moving as you press E

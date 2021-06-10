@@ -1,0 +1,33 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	89505537	Gameplay			\Default Work Unit\Gameplay	
+	1021618141	MusicState			\Default Work Unit\MusicState	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Gameplay			
+	3743321282	State2D	Gameplay			
+	3760098909	State3D	Gameplay			
+	209163956	Mindwipe	MusicState			
+	518528820	OldSchool	MusicState			
+	748895195	None	MusicState			
+	1589804253	TheEnd	MusicState			
+	2187360537	Donkey	MusicState			
+	2201105581	Credits	MusicState			
+	2678230380	Level3	MusicState			
+	2678230381	Level2	MusicState			
+	3118768883	Level2D	MusicState			
+	3298531296	Layer0	MusicState			
+	3298531297	Layer1	MusicState			
+	3298531298	Layer2	MusicState			
+	3604647259	MainMenu	MusicState			
+	3802162864	Layer1Levels	MusicState			
+	4219168293	Infinity	MusicState			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	508158341	VolumeSetting			\Default Work Unit\VolumeSetting	
+	2918011349	MasterVolume			\Default Work Unit\MasterVolume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1671374574	trailer_mute			\Default Work Unit\Master Audio Bus\trailer_mute	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	music			\Default Work Unit\Master Audio Bus\trailer_mute\music	
+

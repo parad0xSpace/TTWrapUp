@@ -1,0 +1,1 @@
+If you get stuck, press "R" to reset.

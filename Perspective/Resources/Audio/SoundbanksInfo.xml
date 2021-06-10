@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" SchemaVersion="9">
+	<RootPaths>
+		<ProjectRoot>G:\digipen\gam300\assets\widdershinsaudio\Audio\</ProjectRoot>
+		<SourceFilesRoot>G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>G:\digipen\gam300\assets\widdershinsaudio\Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>G:\digipen\gam300\assets\widdershinsaudio\Audio\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<Arguments />
+	<DialogueEvents />
+	<StreamedFiles>
+		<File Id="35227956" Language="SFX">
+			<ShortName>CanadaAVATAR.wav</ShortName>
+			<Path>sfx\canadaavatar_4f27f02a.wem</Path>
+		</File>
+		<File Id="48742434" Language="SFX">
+			<ShortName>Donkey.wav</ShortName>
+			<Path>sfx\donkey_4f27f02a.wem</Path>
+		</File>
+		<File Id="127292810" Language="SFX">
+			<ShortName>Level1_Avatar.wav</ShortName>
+			<Path>sfx\level1_avatar_4f27f02a.wem</Path>
+		</File>
+		<File Id="297752376" Language="SFX">
+			<ShortName>Level1_Base.wav</ShortName>
+			<Path>sfx\level1_base_4f27f02a.wem</Path>
+		</File>
+		<File Id="320727103" Language="SFX">
+			<ShortName>Arcade_2.wav</ShortName>
+			<Path>sfx\arcade_2_4f27f02a.wem</Path>
+		</File>
+		<File Id="342842120" Language="SFX">
+			<ShortName>The End_You.wav</ShortName>
+			<Path>sfx\the end_you_4f27f02a.wem</Path>
+		</File>
+		<File Id="364198528" Language="SFX">
+			<ShortName>CanadaMAIN.wav</ShortName>
+			<Path>sfx\canadamain_4f27f02a.wem</Path>
+		</File>
+		<File Id="427095683" Language="SFX">
+			<ShortName>NewLoopMAIN.wav</ShortName>
+			<Path>sfx\newloopmain_4f27f02a.wem</Path>
+		</File>
+		<File Id="506407522" Language="SFX">
+			<ShortName>Arcade_Base.wav</ShortName>
+			<Path>sfx\arcade_base_4f27f02a.wem</Path>
+		</File>
+		<File Id="527740608" Language="SFX">
+			<ShortName>Arcade_Avatar.wav</ShortName>
+			<Path>sfx\arcade_avatar_4f27f02a.wem</Path>
+		</File>
+		<File Id="547961258" Language="SFX">
+			<ShortName>NewLoopAVATAR.wav</ShortName>
+			<Path>sfx\newloopavatar_4f27f02a.wem</Path>
+		</File>
+		<File Id="621075323" Language="SFX">
+			<ShortName>Level2_Base.wav</ShortName>
+			<Path>sfx\level2_base_4f27f02a.wem</Path>
+		</File>
+		<File Id="621573106" Language="SFX">
+			<ShortName>Mindwipe.wav</ShortName>
+			<Path>sfx\mindwipe_4f27f02a.wem</Path>
+		</File>
+		<File Id="626698786" Language="SFX">
+			<ShortName>Infinity_Avatar.wav</ShortName>
+			<Path>sfx\infinity_avatar_4f27f02a.wem</Path>
+		</File>
+		<File Id="627742811" Language="SFX">
+			<ShortName>Mooglight Sonata.wav</ShortName>
+			<Path>sfx\mooglight sonata_4f27f02a.wem</Path>
+		</File>
+		<File Id="675572877" Language="SFX">
+			<ShortName>Arcade_1.wav</ShortName>
+			<Path>sfx\arcade_1_4f27f02a.wem</Path>
+		</File>
+		<File Id="695676103" Language="SFX">
+			<ShortName>Arcade_Ambient.wav</ShortName>
+			<Path>sfx\arcade_ambient_4f27f02a.wem</Path>
+		</File>
+		<File Id="697919265" Language="SFX">
+			<ShortName>The End.wav</ShortName>
+			<Path>sfx\the end_4f27f02a.wem</Path>
+		</File>
+		<File Id="882780254" Language="SFX">
+			<ShortName>Level2_Avatar.wav</ShortName>
+			<Path>sfx\level2_avatar_4f27f02a.wem</Path>
+		</File>
+		<File Id="899660514" Language="SFX">
+			<ShortName>Infinity.wav</ShortName>
+			<Path>sfx\infinity_4f27f02a.wem</Path>
+		</File>
+		<File Id="957015105" Language="SFX">
+			<ShortName>Level3_Base.wav</ShortName>
+			<Path>sfx\level3_base_4f27f02a.wem</Path>
+		</File>
+		<File Id="1031609250" Language="SFX">
+			<ShortName>Level3_Avatar.wav</ShortName>
+			<Path>sfx\level3_avatar_4f27f02a.wem</Path>
+		</File>
+		<File Id="1033944789" Language="SFX">
+			<ShortName>menu.wav</ShortName>
+			<Path>sfx\menu_4f27f02a.wem</Path>
+		</File>
+	</StreamedFiles>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedEvents />
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles />
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="3291379323" Language="SFX">
+			<ShortName>TestBank</ShortName>
+			<Path>TestBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2862272402" Name="Begin2D" />
+				<Event Id="2786285986" Name="BeginLevel" />
+				<Event Id="2519402705" Name="BeginMusic" />
+				<Event Id="779278001" Name="Death" />
+				<Event Id="69672663" Name="FirstRotation" />
+				<Event Id="1866025847" Name="Footstep" />
+				<Event Id="567967104" Name="Goal" />
+				<Event Id="3833651337" Name="Jump" />
+				<Event Id="181780140" Name="LightOn" />
+				<Event Id="2808748851" Name="LowerMusicVolume" />
+				<Event Id="2688984705" Name="OpenBlastDoor" />
+				<Event Id="2122995345" Name="OpenDoor" />
+				<Event Id="1292680848" Name="OpenDoorEnd" />
+				<Event Id="2929280112" Name="Play_ArcadeHum" />
+				<Event Id="2063165418" Name="Play_Beep" />
+				<Event Id="3749552503" Name="Play_Click_Clack" />
+				<Event Id="2848617654" Name="Play_Door_Lift" />
+				<Event Id="1746217429" Name="Play_Door_lift_2" />
+				<Event Id="1746217428" Name="Play_Door_Lift_3" />
+				<Event Id="1746217427" Name="Play_Door_Lift_4" />
+				<Event Id="1821894167" Name="Play_Engine_hum" />
+				<Event Id="83993043" Name="Play_goal" />
+				<Event Id="1097774101" Name="Play_Hub0Hum" />
+				<Event Id="856303749" Name="Play_Hub0WallDown" />
+				<Event Id="4040650185" Name="Play_Hub0WallStop" />
+				<Event Id="672483808" Name="Play_Open_Swoosh" />
+				<Event Id="3425716273" Name="Play_Pressure_Release" />
+				<Event Id="2614591176" Name="Play_Rivet_lock" />
+				<Event Id="3659285072" Name="Play_selection" />
+				<Event Id="2295932397" Name="Play_Servo_1" />
+				<Event Id="1564114565" Name="Play_Slide_Inner_Locks" />
+				<Event Id="3038541946" Name="Play_Sound_4" />
+				<Event Id="3038541947" Name="Play_Sound_5" />
+				<Event Id="464557095" Name="Play_Space_Ship_Alarm" />
+				<Event Id="486243924" Name="Play_staticky" />
+				<Event Id="3160761360" Name="Play_Unlock_Mechanism" />
+				<Event Id="824580576" Name="PlayArcadeMusic" />
+				<Event Id="3872758260" Name="PlayCreditsMusic" />
+				<Event Id="4197467348" Name="PlayDonkeyMusic" />
+				<Event Id="2943163003" Name="PlayInfinity" />
+				<Event Id="2139140638" Name="PlayLayer0" />
+				<Event Id="453201388" Name="PlayLayer1LevelMusic" />
+				<Event Id="799435757" Name="PlayLevel1Music" />
+				<Event Id="1565168865" Name="PlayLevel2D" />
+				<Event Id="344355740" Name="PlayLevel2Music" />
+				<Event Id="2934858651" Name="PlayLevel3Music" />
+				<Event Id="3838137654" Name="PlayMenuClick" />
+				<Event Id="2021075372" Name="PlayMenuHover" />
+				<Event Id="413545259" Name="PlayMenuMusic" />
+				<Event Id="234377707" Name="PlayMindwipeMusic" />
+				<Event Id="1201895499" Name="PlayNoMusic" />
+				<Event Id="2342809038" Name="PlayOldSchool" />
+				<Event Id="2013997955" Name="PlayTheEnd" />
+				<Event Id="979684398" Name="ProjectionFail" />
+				<Event Id="2328689590" Name="RaiseMusicVolume" />
+				<Event Id="3236148094" Name="SlowMo" />
+				<Event Id="452547817" Name="Stop_All" />
+				<Event Id="1933914364" Name="To2D" />
+				<Event Id="1950691919" Name="To3D" />
+				<Event Id="29956182" Name="TrailerMuteMusic" />
+				<Event Id="2131832963" Name="Widdershins" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles>
+				<File Id="675572877" />
+				<File Id="320727103" />
+				<File Id="695676103" />
+				<File Id="527740608" />
+				<File Id="506407522" />
+				<File Id="35227956" />
+				<File Id="364198528" />
+				<File Id="48742434" />
+				<File Id="899660514" />
+				<File Id="626698786" />
+				<File Id="127292810" />
+				<File Id="297752376" />
+				<File Id="882780254" />
+				<File Id="621075323" />
+				<File Id="1031609250" />
+				<File Id="957015105" />
+				<File Id="1033944789" />
+				<File Id="621573106" />
+				<File Id="627742811" />
+				<File Id="547961258" />
+				<File Id="427095683" />
+				<File Id="697919265" />
+				<File Id="342842120" />
+			</ReferencedStreamedFiles>
+			<IncludedFullFiles>
+				<File Id="429705409" Language="SFX">
+					<ShortName>ArcadeHum.wav</ShortName>
+					<Path>sfx\arcadehum_ab9e423e.wem</Path>
+				</File>
+				<File Id="72662998" Language="SFX">
+					<ShortName>Barry_Jump1.wav</ShortName>
+					<Path>sfx\barry_jump1_ab9e423f.wem</Path>
+				</File>
+				<File Id="755368939" Language="SFX">
+					<ShortName>Barry_Jump2.wav</ShortName>
+					<Path>sfx\barry_jump2_ab9e423f.wem</Path>
+				</File>
+				<File Id="1067882205" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun10.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun10_ab9e423f.wem</Path>
+				</File>
+				<File Id="35847414" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun11.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun11_ab9e423f.wem</Path>
+				</File>
+				<File Id="195271888" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun12.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun12_ab9e423f.wem</Path>
+				</File>
+				<File Id="445494398" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun13.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun13_ab9e423f.wem</Path>
+				</File>
+				<File Id="854013825" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun14.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun14_ab9e423f.wem</Path>
+				</File>
+				<File Id="470942848" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun15.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun15_ab9e423f.wem</Path>
+				</File>
+				<File Id="117277038" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun16.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun16_ab9e423f.wem</Path>
+				</File>
+				<File Id="521438004" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun17.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun17_ab9e423f.wem</Path>
+				</File>
+				<File Id="346956576" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun18.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun18_ab9e423f.wem</Path>
+				</File>
+				<File Id="547533628" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun19.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun19_ab9e423f.wem</Path>
+				</File>
+				<File Id="707673424" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun1.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun1_ab9e423f.wem</Path>
+				</File>
+				<File Id="891966189" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun20.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun20_ab9e423f.wem</Path>
+				</File>
+				<File Id="268506256" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun21.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun21_ab9e423f.wem</Path>
+				</File>
+				<File Id="10524555" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun22.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun22_ab9e423f.wem</Path>
+				</File>
+				<File Id="187923175" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun2.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun2_ab9e423f.wem</Path>
+				</File>
+				<File Id="524524018" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun3.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun3_ab9e423f.wem</Path>
+				</File>
+				<File Id="99712624" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun4.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun4_ab9e423f.wem</Path>
+				</File>
+				<File Id="972792924" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun5.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun5_ab9e423f.wem</Path>
+				</File>
+				<File Id="691236990" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun6.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun6_ab9e423f.wem</Path>
+				</File>
+				<File Id="873075218" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun7.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun7_ab9e423f.wem</Path>
+				</File>
+				<File Id="98445115" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun8.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun8_ab9e423f.wem</Path>
+				</File>
+				<File Id="196064885" Language="SFX">
+					<ShortName>BarrysMagicalFootsteps\Foot_Metal3_SneakerRun9.wav</ShortName>
+					<Path>sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun9_ab9e423f.wem</Path>
+				</File>
+				<File Id="571375527" Language="SFX">
+					<ShortName>Beep.wav</ShortName>
+					<Path>sfx\beep_ab9e423f.wem</Path>
+				</File>
+				<File Id="953771149" Language="SFX">
+					<ShortName>blastdooropen.wav</ShortName>
+					<Path>sfx\blastdooropen_ab9e423f.wem</Path>
+				</File>
+				<File Id="34258613" Language="SFX">
+					<ShortName>cashregister.wav</ShortName>
+					<Path>sfx\cashregister_ab9e423f.wem</Path>
+				</File>
+				<File Id="585406351" Language="SFX">
+					<ShortName>Click Clack.wav</ShortName>
+					<Path>sfx\click clack_ab9e423f.wem</Path>
+				</File>
+				<File Id="948919934" Language="SFX">
+					<ShortName>clock.wav</ShortName>
+					<Path>sfx\clock_ab9e423f.wem</Path>
+				</File>
+				<File Id="355883942" Language="SFX">
+					<ShortName>Door lift 2.wav</ShortName>
+					<Path>sfx\door lift 2_ab9e423f.wem</Path>
+				</File>
+				<File Id="212919648" Language="SFX">
+					<ShortName>Door Lift 3.wav</ShortName>
+					<Path>sfx\door lift 3_ab9e423f.wem</Path>
+				</File>
+				<File Id="804891916" Language="SFX">
+					<ShortName>Door Lift 4.wav</ShortName>
+					<Path>sfx\door lift 4_ab9e423f.wem</Path>
+				</File>
+				<File Id="283641447" Language="SFX">
+					<ShortName>Door Lift.wav</ShortName>
+					<Path>sfx\door lift_ab9e423f.wem</Path>
+				</File>
+				<File Id="781798271" Language="SFX">
+					<ShortName>Door_LargeMetal_Open03.wav</ShortName>
+					<Path>sfx\door_largemetal_open03_ab9e423f.wem</Path>
+				</File>
+				<File Id="38602545" Language="SFX">
+					<ShortName>Door_LargeMetal_Stop10.wav</ShortName>
+					<Path>sfx\door_largemetal_stop10_ab9e423f.wem</Path>
+				</File>
+				<File Id="314902181" Language="SFX">
+					<ShortName>Engine hum.wav</ShortName>
+					<Path>sfx\engine hum_ab9e423f.wem</Path>
+				</File>
+				<File Id="691766353" Language="SFX">
+					<ShortName>Explosion 2.wav</ShortName>
+					<Path>sfx\explosion 2_ab9e423f.wem</Path>
+				</File>
+				<File Id="997976071" Language="SFX">
+					<ShortName>Goal 1.wav</ShortName>
+					<Path>sfx\goal 1_ab9e423f.wem</Path>
+				</File>
+				<File Id="703632944" Language="SFX">
+					<ShortName>goal.wav</ShortName>
+					<Path>sfx\goal_ab9e423f.wem</Path>
+				</File>
+				<File Id="777564313" Language="SFX">
+					<ShortName>Hub0Hum.wav</ShortName>
+					<Path>sfx\hub0hum_ab9e423e.wem</Path>
+				</File>
+				<File Id="341806573" Language="SFX">
+					<ShortName>Hub0WallDown.wav</ShortName>
+					<Path>sfx\hub0walldown_ab9e423e.wem</Path>
+				</File>
+				<File Id="186532039" Language="SFX">
+					<ShortName>Hub0WallStop.wav</ShortName>
+					<Path>sfx\hub0wallstop_ab9e423f.wem</Path>
+				</File>
+				<File Id="524661555" Language="SFX">
+					<ShortName>Jump 1.wav</ShortName>
+					<Path>sfx\jump 1_ab9e423f.wem</Path>
+				</File>
+				<File Id="45452049" Language="SFX">
+					<ShortName>Layer1_Levels_Avatar.wav</ShortName>
+					<Path>sfx\layer1_levels_avatar_4f27f02a.wem</Path>
+				</File>
+				<File Id="182399344" Language="SFX">
+					<ShortName>Layer1_Levels_Base.wav</ShortName>
+					<Path>sfx\layer1_levels_base_4f27f02a.wem</Path>
+				</File>
+				<File Id="227349329" Language="SFX">
+					<ShortName>light_on.wav</ShortName>
+					<Path>sfx\light_on_ab9e423f.wem</Path>
+				</File>
+				<File Id="987820573" Language="SFX">
+					<ShortName>Male_Death02.wav</ShortName>
+					<Path>sfx\male_death02_ab9e423f.wem</Path>
+				</File>
+				<File Id="60342317" Language="SFX">
+					<ShortName>MenuEnter.wav</ShortName>
+					<Path>sfx\menuenter_ab9e423f.wem</Path>
+				</File>
+				<File Id="779702827" Language="SFX">
+					<ShortName>MenuNAv.wav</ShortName>
+					<Path>sfx\menunav_ab9e423f.wem</Path>
+				</File>
+				<File Id="881366407" Language="SFX">
+					<ShortName>noproject.wav</ShortName>
+					<Path>sfx\noproject_ab9e423f.wem</Path>
+				</File>
+				<File Id="989099726" Language="SFX">
+					<ShortName>Open Swoosh.wav</ShortName>
+					<Path>sfx\open swoosh_ab9e423f.wem</Path>
+				</File>
+				<File Id="482327368" Language="SFX">
+					<ShortName>Pressure Release.wav</ShortName>
+					<Path>sfx\pressure release_ab9e423f.wem</Path>
+				</File>
+				<File Id="621540912" Language="SFX">
+					<ShortName>Rivet lock.wav</ShortName>
+					<Path>sfx\rivet lock_ab9e423f.wem</Path>
+				</File>
+				<File Id="920662014" Language="SFX">
+					<ShortName>selection.wav</ShortName>
+					<Path>sfx\selection_ab9e423f.wem</Path>
+				</File>
+				<File Id="692372816" Language="SFX">
+					<ShortName>Servo 1.wav</ShortName>
+					<Path>sfx\servo 1_ab9e423f.wem</Path>
+				</File>
+				<File Id="286996554" Language="SFX">
+					<ShortName>Slide Inner Locks.wav</ShortName>
+					<Path>sfx\slide inner locks_ab9e423f.wem</Path>
+				</File>
+				<File Id="30077044" Language="SFX">
+					<ShortName>Sound 4.wav</ShortName>
+					<Path>sfx\sound 4_ab9e423f.wem</Path>
+				</File>
+				<File Id="343555531" Language="SFX">
+					<ShortName>Sound 5.wav</ShortName>
+					<Path>sfx\sound 5_ab9e423f.wem</Path>
+				</File>
+				<File Id="547744427" Language="SFX">
+					<ShortName>Space Ship Alarm.wav</ShortName>
+					<Path>sfx\space ship alarm_ab9e423f.wem</Path>
+				</File>
+				<File Id="971434756" Language="SFX">
+					<ShortName>staticky.wav</ShortName>
+					<Path>sfx\staticky_ab9e423f.wem</Path>
+				</File>
+				<File Id="294751546" Language="SFX">
+					<ShortName>Unlock Mechanism.wav</ShortName>
+					<Path>sfx\unlock mechanism_ab9e423f.wem</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles>
+				<File Id="48742434" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>Donkey.wav</ShortName>
+					<Path>sfx\donkey_4f27f02a.wem</Path>
+				</File>
+				<File Id="127292810" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>Level1_Avatar.wav</ShortName>
+					<Path>sfx\level1_avatar_4f27f02a.wem</Path>
+				</File>
+				<File Id="297752376" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>Level1_Base.wav</ShortName>
+					<Path>sfx\level1_base_4f27f02a.wem</Path>
+				</File>
+				<File Id="882780254" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>Level2_Avatar.wav</ShortName>
+					<Path>sfx\level2_avatar_4f27f02a.wem</Path>
+				</File>
+				<File Id="621075323" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>Level2_Base.wav</ShortName>
+					<Path>sfx\level2_base_4f27f02a.wem</Path>
+				</File>
+				<File Id="1031609250" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>Level3_Avatar.wav</ShortName>
+					<Path>sfx\level3_avatar_4f27f02a.wem</Path>
+				</File>
+				<File Id="957015105" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>Level3_Base.wav</ShortName>
+					<Path>sfx\level3_base_4f27f02a.wem</Path>
+				</File>
+				<File Id="547961258" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>NewLoopAVATAR.wav</ShortName>
+					<Path>sfx\newloopavatar_4f27f02a.wem</Path>
+				</File>
+				<File Id="427095683" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>NewLoopMAIN.wav</ShortName>
+					<Path>sfx\newloopmain_4f27f02a.wem</Path>
+				</File>
+				<File Id="697919265" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>The End.wav</ShortName>
+					<Path>sfx\the end_4f27f02a.wem</Path>
+				</File>
+				<File Id="342842120" Language="SFX" PrefetchMilliseconds="100">
+					<ShortName>The End_You.wav</ShortName>
+					<Path>sfx\the end_you_4f27f02a.wem</Path>
+				</File>
+			</IncludedPrefetchFiles>
+			<ExternalSources />
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Project="AudioProject" Platform="Windows" Key="45C67EFC-4" Motion="false">
+	<Plugins>
+		<Plugin Name="Wwise Time Stretch" ID="8519683" />
+		<Plugin Name="Wwise Pitch Shifter" ID="8912899" />
+	</Plugins>
+</PluginInfo>

@@ -1,0 +1,201 @@
+Event	ID	Name			Wwise Object Path	Notes
+	29956182	TrailerMuteMusic			\Default Work Unit\Music\TrailerMuteMusic	
+	69672663	FirstRotation			\Default Work Unit\FirstRotation	
+	83993043	Play_goal			\Default Work Unit\Play_goal	
+	181780140	LightOn			\Default Work Unit\LightOn	
+	234377707	PlayMindwipeMusic			\Default Work Unit\Music\PlayMindwipeMusic	
+	344355740	PlayLevel2Music			\Default Work Unit\Music\PlayLevel2Music	
+	413545259	PlayMenuMusic			\Default Work Unit\Music\PlayMenuMusic	
+	452547817	Stop_All			\Default Work Unit\Stop_All	
+	453201388	PlayLayer1LevelMusic			\Default Work Unit\Music\PlayLayer1LevelMusic	
+	464557095	Play_Space_Ship_Alarm			\Default Work Unit\BlastDoor\Play_Space_Ship_Alarm	
+	486243924	Play_staticky			\Default Work Unit\Play_staticky	
+	567967104	Goal			\Default Work Unit\Goal	
+	672483808	Play_Open_Swoosh			\Default Work Unit\BlastDoor\Play_Open_Swoosh	
+	779278001	Death			\Default Work Unit\Death	
+	799435757	PlayLevel1Music			\Default Work Unit\Music\PlayLevel1Music	
+	824580576	PlayArcadeMusic			\Default Work Unit\Music\PlayArcadeMusic	
+	856303749	Play_Hub0WallDown			\Default Work Unit\Play_Hub0WallDown	
+	979684398	ProjectionFail			\Default Work Unit\ProjectionFail	
+	1097774101	Play_Hub0Hum			\Default Work Unit\Play_Hub0Hum	
+	1201895499	PlayNoMusic			\Default Work Unit\Music\PlayNoMusic	
+	1292680848	OpenDoorEnd			\Default Work Unit\OpenDoorEnd	
+	1564114565	Play_Slide_Inner_Locks			\Default Work Unit\BlastDoor\Play_Slide_Inner_Locks	
+	1565168865	PlayLevel2D			\Default Work Unit\Music\PlayLevel2D	
+	1746217427	Play_Door_Lift_4			\Default Work Unit\BlastDoor\Play_Door_Lift_4	
+	1746217428	Play_Door_Lift_3			\Default Work Unit\BlastDoor\Play_Door_Lift_3	
+	1746217429	Play_Door_lift_2			\Default Work Unit\BlastDoor\Play_Door_lift_2	
+	1821894167	Play_Engine_hum			\Default Work Unit\BlastDoor\Play_Engine_hum	
+	1866025847	Footstep			\Default Work Unit\Footstep	
+	1933914364	To2D			\Default Work Unit\To2D	
+	1950691919	To3D			\Default Work Unit\To3D	
+	2013997955	PlayTheEnd			\Default Work Unit\Music\PlayTheEnd	
+	2021075372	PlayMenuHover			\Default Work Unit\PlayMenuHover	
+	2063165418	Play_Beep			\Default Work Unit\BlastDoor\Play_Beep	
+	2122995345	OpenDoor			\Default Work Unit\OpenDoor	
+	2131832963	Widdershins			\Default Work Unit\Widdershins	
+	2139140638	PlayLayer0			\Default Work Unit\Music\PlayLayer0	
+	2295932397	Play_Servo_1			\Default Work Unit\BlastDoor\Play_Servo_1	
+	2328689590	RaiseMusicVolume			\Default Work Unit\Music\RaiseMusicVolume	
+	2342809038	PlayOldSchool			\Default Work Unit\Music\PlayOldSchool	
+	2519402705	BeginMusic			\Default Work Unit\Music\BeginMusic	
+	2614591176	Play_Rivet_lock			\Default Work Unit\BlastDoor\Play_Rivet_lock	
+	2688984705	OpenBlastDoor			\Default Work Unit\OpenBlastDoor	
+	2786285986	BeginLevel			\Default Work Unit\BeginLevel	
+	2808748851	LowerMusicVolume			\Default Work Unit\Music\LowerMusicVolume	
+	2848617654	Play_Door_Lift			\Default Work Unit\BlastDoor\Play_Door_Lift	
+	2862272402	Begin2D			\Default Work Unit\Begin2D	
+	2929280112	Play_ArcadeHum			\Default Work Unit\Play_ArcadeHum	
+	2934858651	PlayLevel3Music			\Default Work Unit\Music\PlayLevel3Music	
+	2943163003	PlayInfinity			\Default Work Unit\Music\PlayInfinity	
+	3038541946	Play_Sound_4			\Default Work Unit\BlastDoor\Play_Sound_4	
+	3038541947	Play_Sound_5			\Default Work Unit\BlastDoor\Play_Sound_5	
+	3160761360	Play_Unlock_Mechanism			\Default Work Unit\BlastDoor\Play_Unlock_Mechanism	
+	3236148094	SlowMo			\Default Work Unit\Music\SlowMo	
+	3425716273	Play_Pressure_Release			\Default Work Unit\BlastDoor\Play_Pressure_Release	
+	3659285072	Play_selection			\Default Work Unit\Play_selection	
+	3749552503	Play_Click_Clack			\Default Work Unit\BlastDoor\Play_Click_Clack	
+	3833651337	Jump			\Default Work Unit\Jump	
+	3838137654	PlayMenuClick			\Default Work Unit\PlayMenuClick	
+	3872758260	PlayCreditsMusic			\Default Work Unit\Music\PlayCreditsMusic	
+	4040650185	Play_Hub0WallStop			\Default Work Unit\Play_Hub0WallStop	
+	4197467348	PlayDonkeyMusic			\Default Work Unit\Music\PlayDonkeyMusic	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1021618141	MusicState			\Default Work Unit\MusicState	
+
+State	ID	Name	State Group			Notes
+	209163956	Mindwipe	MusicState			
+	518528820	OldSchool	MusicState			
+	748895195	None	MusicState			
+	1589804253	TheEnd	MusicState			
+	2187360537	Donkey	MusicState			
+	2201105581	Credits	MusicState			
+	2678230380	Level3	MusicState			
+	2678230381	Level2	MusicState			
+	3118768883	Level2D	MusicState			
+	3298531296	Layer0	MusicState			
+	3298531297	Layer1	MusicState			
+	3298531298	Layer2	MusicState			
+	3604647259	MainMenu	MusicState			
+	3802162864	Layer1Levels	MusicState			
+	4219168293	Infinity	MusicState			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	508158341	VolumeSetting			\Default Work Unit\VolumeSetting	
+	2409030233	timestretch			\Default Work Unit\timestretch	
+	2804347300	Arcade2Vol			\Default Work Unit\Arcade2Vol	
+	2918011349	MasterVolume			\Default Work Unit\MasterVolume	
+	3313201736	mode			\Default Work Unit\mode	
+	4129614569	Arcade1Vol			\Default Work Unit\Arcade1Vol	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1671374574	trailer_mute			\Default Work Unit\Master Audio Bus\trailer_mute	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	music			\Default Work Unit\Master Audio Bus\trailer_mute\music	
+
+Effect plug-ins	ID	Name	Type				Notes
+	445553110	derpypitch (Define custom)	Wwise Pitch Shifter			
+	1228720283	derpytimestretch	Wwise Time Stretch			
+	1782922059	derpypitch	Wwise Pitch Shifter			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	10524555	Foot_Metal3_SneakerRun22	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun22_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun22		61186
+	30077044	Sound 4	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\sound 4_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Sound 4		188496
+	34258613	cashregister	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\cashregister_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\cashregister		240796
+	35847414	Foot_Metal3_SneakerRun11	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun11_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun11		63870
+	38602545	OpenDoorEnd	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\door_largemetal_stop10_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\OpenDoorEnd		126186
+	45452049	Layer1_Levels_Avatar	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\layer1_levels_avatar_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Layer1Levels\Layer1Levels\Layer1_Levels_Avatar		1568390
+	48742434	Donkey	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\donkey_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Donkey\Donkey		1758
+	60342317	MenuEnter	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\menuenter_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\MenuEnter		20590
+	72662998	Barry_Jump1	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barry_jump1_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarryJump\Barry_Jump1		22078
+	98445115	Foot_Metal3_SneakerRun8	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun8_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun8		72264
+	99712624	Foot_Metal3_SneakerRun4	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun4_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun4		62460
+	117277038	Foot_Metal3_SneakerRun16	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun16_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun16		54132
+	127292810	Level1_Avatar	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level1_avatar_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Level1\Level1\Level1_Avatar		1841
+	182399344	Layer1_Levels_Base	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\layer1_levels_base_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Layer1Levels\Layer1Levels\Layer1_Levels_Base		1475852
+	186532039	Hub0WallStop	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\hub0wallstop_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hub0WallStop		99950
+	187923175	Foot_Metal3_SneakerRun2	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun2_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun2		55136
+	195271888	Foot_Metal3_SneakerRun12	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun12_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun12		67386
+	196064885	Foot_Metal3_SneakerRun9	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun9_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun9		46860
+	212919648	Door Lift 3	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\door lift 3_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Door Lift 3		494040
+	227349329	light_on	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\light_on_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\light_on		80408
+	268506256	Foot_Metal3_SneakerRun21	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun21_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun21		58344
+	283641447	Door Lift	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\door lift_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Door Lift		542484
+	286996554	Slide Inner Locks	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\slide inner locks_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Slide Inner Locks		37348
+	294751546	Unlock Mechanism	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\unlock mechanism_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Unlock Mechanism		490284
+	297752376	Level1_Base	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level1_base_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Level1\Level1\Level1_Base		1988
+	314902181	Engine hum	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\engine hum_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Engine hum		3572832
+	341806573	Hub0WallDown	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\hub0walldown_ab9e423e.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hub0WallDown		170482
+	342842120	The End_You	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\the end_you_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\TheEnd\The End\The End_You		2426
+	343555531	Sound 5	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\sound 5_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Sound 5		346432
+	346956576	Foot_Metal3_SneakerRun18	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun18_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun18		55982
+	355883942	Door lift 2	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\door lift 2_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Door lift 2		507972
+	427095683	NewLoopMAIN	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\newloopmain_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Looper\NewLoop\NewLoopMAIN		1697
+	429705409	ArcadeHum	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\arcadehum_ab9e423e.wem		\Actor-Mixer Hierarchy\Default Work Unit\ArcadeHum		139332
+	445494398	Foot_Metal3_SneakerRun13	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun13_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun13		51426
+	470942848	Foot_Metal3_SneakerRun15	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun15_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun15		71702
+	482327368	Pressure Release	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\pressure release_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Pressure Release		406136
+	521438004	Foot_Metal3_SneakerRun17	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun17_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun17		66850
+	524524018	Foot_Metal3_SneakerRun3	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun3_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun3		47014
+	524661555	Jump 1	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\jump 1_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump 1		10464
+	547533628	Foot_Metal3_SneakerRun19	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun19_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun19		72668
+	547744427	Space Ship Alarm	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\space ship alarm_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Space Ship Alarm		348204
+	547961258	NewLoopAVATAR	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\newloopavatar_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Looper\NewLoop\NewLoopAVATAR		1840
+	571375527	Beep	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\beep_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Beep		293272
+	585406351	Click Clack	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\click clack_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Click Clack		83948
+	621075323	Level2_Base	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level2_base_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Level2\Level2\Level2_Base		1748
+	621540912	Rivet lock	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\rivet lock_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Rivet lock		107164
+	691236990	Foot_Metal3_SneakerRun6	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun6_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun6		68772
+	691766353	Explosion 2	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\explosion 2_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Explosion 2		41012
+	692372816	Servo 1	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\servo 1_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Servo 1		72800
+	697919265	The End	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\the end_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\TheEnd\The End\The End		3173
+	703632944	goal	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\goal_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\goal		97050
+	707673424	Foot_Metal3_SneakerRun1	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun1_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun1		44844
+	755368939	Barry_Jump2	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barry_jump2_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarryJump\Barry_Jump2		36222
+	777564313	Hub0Hum	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\hub0hum_ab9e423e.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hub0Hum		261230
+	779702827	MenuNAv	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\menunav_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\MenuNAv		20226
+	781798271	OpenDoor	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\door_largemetal_open03_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\OpenDoor		517046
+	804891916	Door Lift 4	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\door lift 4_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Door Lift 4		324932
+	854013825	Foot_Metal3_SneakerRun14	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun14_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun14		55226
+	873075218	Foot_Metal3_SneakerRun7	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun7_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun7		64074
+	881366407	noproject	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\noproject_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\noproject		9882
+	882780254	Level2_Avatar	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level2_avatar_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Level2\Level2\Level2_Avatar		1949
+	891966189	Foot_Metal3_SneakerRun20	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun20_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun20		57548
+	920662014	selection	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\selection_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\selection		100558
+	948919934	clock	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\clock_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\clock		749376
+	953771149	blastdooropen	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\blastdooropen_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\blastdooropen		920064
+	957015105	Level3_Base	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level3_base_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Level3\Level3\Level3_Base		3403
+	971434756	staticky	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\staticky_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\staticky		6208
+	972792924	Foot_Metal3_SneakerRun5	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun5_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun5		45662
+	987820573	Death	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\male_death02_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death		56616
+	989099726	Open Swoosh	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\open swoosh_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BlastDoor\Open Swoosh		208504
+	997976071	Goal 1	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\goal 1_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Goal 1		40654
+	1031609250	Level3_Avatar	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level3_avatar_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Level3\Level3\Level3_Avatar		2209
+	1067882205	Foot_Metal3_SneakerRun10	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\barrysmagicalfootsteps\foot_metal3_sneakerrun10_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarrysMagicalFootsteps\Foot_Metal3_SneakerRun10		64632
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	35227956	CanadaAVATAR	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\canadaavatar_4f27f02a.wem	35227956.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Looper2\Canada\CanadaAVATAR	
+	48742434	Donkey	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\donkey_4f27f02a.wem	48742434.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Donkey\Donkey	
+	127292810	Level1_Avatar	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level1_avatar_4f27f02a.wem	127292810.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Level1\Level1\Level1_Avatar	
+	297752376	Level1_Base	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level1_base_4f27f02a.wem	297752376.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Level1\Level1\Level1_Base	
+	320727103	Arcade_2	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\arcade_2_4f27f02a.wem	320727103.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Arcade\Arcade\Arcade_2	
+	342842120	The End_You	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\the end_you_4f27f02a.wem	342842120.wem	\Interactive Music Hierarchy\Default Work Unit\Music\TheEnd\The End\The End_You	
+	364198528	CanadaMAIN	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\canadamain_4f27f02a.wem	364198528.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Looper2\Canada\CanadaMAIN	
+	427095683	NewLoopMAIN	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\newloopmain_4f27f02a.wem	427095683.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Looper\NewLoop\NewLoopMAIN	
+	506407522	Arcade_Base	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\arcade_base_4f27f02a.wem	506407522.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Arcade\Arcade\Arcade_Base	
+	527740608	Arcade_Avatar	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\arcade_avatar_4f27f02a.wem	527740608.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Arcade\Arcade\Arcade_Avatar	
+	547961258	NewLoopAVATAR	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\newloopavatar_4f27f02a.wem	547961258.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Looper\NewLoop\NewLoopAVATAR	
+	621075323	Level2_Base	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level2_base_4f27f02a.wem	621075323.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Level2\Level2\Level2_Base	
+	621573106	Mindwipe	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\mindwipe_4f27f02a.wem	621573106.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Mindwipe\Mindwipe\Mindwipe	
+	626698786	Infinity_Avatar	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\infinity_avatar_4f27f02a.wem	626698786.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Infinity\Infinity\Infinity_Avatar	
+	627742811	Mindwipe	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\mooglight sonata_4f27f02a.wem	627742811.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Mooglight\Mooglight Sonata\Mindwipe	
+	675572877	Arcade_1	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\arcade_1_4f27f02a.wem	675572877.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Arcade\Arcade\Arcade_1	
+	695676103	Arcade_Ambient	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\arcade_ambient_4f27f02a.wem	695676103.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Arcade\Arcade\Arcade_Ambient	
+	697919265	The End	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\the end_4f27f02a.wem	697919265.wem	\Interactive Music Hierarchy\Default Work Unit\Music\TheEnd\The End\The End	
+	882780254	Level2_Avatar	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level2_avatar_4f27f02a.wem	882780254.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Level2\Level2\Level2_Avatar	
+	899660514	Infinity	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\infinity_4f27f02a.wem	899660514.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Infinity\Infinity\Infinity	
+	957015105	Level3_Base	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level3_base_4f27f02a.wem	957015105.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Level3\Level3\Level3_Base	
+	1031609250	Level3_Avatar	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\level3_avatar_4f27f02a.wem	1031609250.wem	\Interactive Music Hierarchy\Default Work Unit\Music\Level3\Level3\Level3_Avatar	
+	1033944789	menu	G:\digipen\gam300\assets\widdershinsaudio\Audio\.cache\Windows\sfx\menu_4f27f02a.wem	1033944789.wem	\Interactive Music Hierarchy\Default Work Unit\Music\MenuLooper\menu\menu	
+
